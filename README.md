@@ -1,6 +1,6 @@
-# ImageCraft
+# ImageEditApi
 
-ImageCraft is a web application that allows users to upload images, edit them using DALL·E, and store them in AWS S3. The application also uses PostgreSQL for managing image metadata. This project provides a robust solution for handling image uploads, transformations, and storage.
+ImageEditApi is a web application that allows users to upload images, edit them using DALL·E, and store them in AWS S3. The application also uses PostgreSQL for managing image metadata. This project provides a robust solution for handling image uploads, transformations, and storage.
 
 
 ## Features
